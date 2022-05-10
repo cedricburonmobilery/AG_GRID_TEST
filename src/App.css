@@ -1,0 +1,13 @@
+.img-cell {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 200px;
+  vertical-align: middle;
+  padding: 12.5px
+}
+
+.img-cell > img {
+  margin: 5px;
+  border:1px solid black;
+}
